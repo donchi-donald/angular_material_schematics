@@ -19,6 +19,10 @@ important help command
  ng add @angular/material
  #schematic for Component Dev Kit
  ng add @angular/cdk
+ #update all schematic
+ ng update --all
+ #upate a angular material schematic
+ ng update @angular/material
  ```
 
 ## Generate componente Schematics
